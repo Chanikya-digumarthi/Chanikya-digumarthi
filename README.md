@@ -14,15 +14,6 @@
   - [Taxi Demand Forecast](https://github.com/Chanikya-digumarthi/Taxi-Demand-Forecast)</b></i>
 - <b>Deep learning</b>
   - [Facemask Detection uisng CNN and OpenCV](https://github.com/Chanikya-digumarthi/Facemask-detection-using-CNN-and-OpenCV) <b><i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Natural Language Processing</b>
+  - [Sentiment Analysis on Apple and Samsung Tweets](https://github.com/Chanikya-digumarthi/Sentiment-analysis-on-Samsung-vs-Apple)</b></i>
 
