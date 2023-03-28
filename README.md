@@ -6,7 +6,7 @@
   
   <b>Currently pursuing Masters in Business Analytics and Project Management(Data science concentration) at University of connecticut at stamford campus</b>
   
-  <b>Seeking full-time oppurtunities as a Data scientist starting from May-2023</b>
+  <b>Seeking full-time oppurtunities in Data Science starting from May-2023</b>
   
 <h2>👨‍💻 Data Science Projects:</h2>
 
