@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chanikya! <br/><a href="https://www.linkedin.com/in/chanikya-digumarthi">Linkedin</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Email</a>
+<h1>Hi, I'm Chanikya! <br/><a href="https://www.linkedin.com/in/chanikya-digumarthi">Linkedin</a>, <a href="chanikya.digumarthi@gmail.com">Email</a>
 
 <h2>👨 About me:</h2>  
   <b>Data Professional with 3.5+ years of professional experience working in enterprise reporting and analytics teams. Proficient in SQL, Python and Tableau along with course work and project experience in Statistics, Machine Learning, Deep learning, Time series, Data management, Big data and Cloud computing.</b>
