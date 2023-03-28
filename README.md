@@ -21,6 +21,6 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>ETL pipeline using Airflow, AWS S3 & EC2</b>
-    - [Twitter ETL Pipeline](https://github.com/Chanikya-digumarthi/Taxi-Demand-Forecast)</b></i>
+    - [Twitter ETL Pipeline](https://github.com/Chanikya-digumarthi/Twitter_ETL_Using_Airflow_AWS-S3_EC2)</b></i>
 - <b>Datawarehouse Design for an Insurance business process</b>
     - [MySQL Datawarehouse design and implementation](https://github.com/Chanikya-digumarthi/Taxi-Demand-Forecast)</b></i>
