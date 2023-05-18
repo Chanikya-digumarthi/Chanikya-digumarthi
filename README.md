@@ -22,8 +22,8 @@
 
 - <b>ETL pipeline using Airflow, AWS S3 & EC2</b>
     - [Twitter ETL Pipeline](https://github.com/Chanikya-digumarthi/Twitter_ETL_Using_Airflow_AWS-S3_EC2)</b></i>
-<b>Snowflake data pipeline using Airflow and Docker</b>
-    - [Snowflake_Airflow_Docker]([https://github.com/Chanikya-digumarthi/Twitter_ETL_Using_Airflow_AWS-S3_EC2](https://github.com/Chanikya-digumarthi/Snowflake_pipeline_using_Docker-Airflow/tree/main))</b></i>
+- <b>Snowflake data pipeline using Airflow and Docker</b>
+    - [Snowflake_Airflow_Docker](https://github.com/Chanikya-digumarthi/Snowflake_pipeline_using_Docker-Airflow/tree/main)</b></i>
 - <b>Datawarehouse Design for an Insurance business process</b>
     - [MySQL Datawarehouse design and implementation](https://github.com/Chanikya-digumarthi/MySQL-Datawarehouse-design-and-Implementation-for-Insurance-client)</b></i>
 - <b>End to End youtube data analytics project uisng AWS services</b>
